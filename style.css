@@ -1,0 +1,644 @@
+img{
+    color:#000000;
+    border:solid;
+}
+
+h1{
+    color:#DDE1F0;
+}
+
+h2{
+    color:#000000;
+}
+
+body{
+    background-color:#0000FF;
+}
+
+.home{
+    display: flex;
+    flex-direction:row;
+}
+
+.word{
+    text-align: center;
+}
+
+.word2{
+    text-align: center;
+}
+.origami1{
+    left:100%;
+    position: relative;
+}
+
+.origami1 h2{
+    position:absolute;
+    top:30%;
+    left:38%;
+    opacity:0;
+}
+
+.origami1:hover h2{
+    opacity:1;
+}
+
+.origami1:hover img{
+    opacity:0.4;
+}
+
+.origami2{
+    left:100%;
+    position: relative;
+}
+
+.origami2 h2{
+    position:absolute;
+    top:30%;
+    left:38%;
+    opacity:0;
+}
+
+.origami2:hover h2{
+    opacity:1;
+}
+
+.origami2:hover img{
+    opacity:0.4;
+}
+
+.origami3{
+    left:100%;
+    position: relative;
+}
+
+.origami3 h2{
+    position:absolute;
+    top:30%;
+    left:41%;
+    opacity:0;
+}
+
+.origami3:hover h2{
+    opacity:1;
+}
+
+.origami3:hover img{
+    opacity:0.4;    
+}
+
+.origami4{
+    left:100%;
+    position: relative;
+}
+
+.origami4 h2{
+    position:absolute;
+    top:30%;
+    left:37%;
+    opacity:0;
+}
+
+.origami4:hover h2{
+    opacity:1;
+}
+
+.origami4:hover img{
+    opacity:0.4;
+}
+
+.flower{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.fl1{
+    position: relative;
+}
+
+.fl1 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.fl1:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl1:hover img{
+    opacity:0.4;
+}
+
+.fl2{
+    position: relative;
+}
+
+.fl2 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.fl2:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl2:hover img{
+    opacity:0.4;
+}
+
+.fl3{
+    position: relative;
+}
+
+.fl3 h2{
+    position:absolute;
+    top:30%;
+    left:30%;
+    opacity:0;
+}
+
+.fl3:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl3:hover img{
+    opacity:0.4;
+}
+
+.fl4{
+    position: relative;
+}
+
+.fl4 h2{
+    position:absolute;
+    top:30%;
+    left:32%;
+    opacity:0;
+}
+
+.fl4:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl4:hover img{
+    opacity:0.4;
+}
+
+.fl5{
+    position: relative;
+}
+
+.fl5 h2{
+    position:absolute;
+    top:30%;
+    left:32%;
+    opacity:0;
+}
+
+.fl5:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl5:hover img{
+    opacity:0.4;
+}
+
+.fl6{
+    position: relative;
+}
+
+.fl6 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.fl6:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl6:hover img{
+    opacity:0.4;
+}
+
+.fl7{
+    position: relative;
+}
+
+.fl7 h2{
+    position:absolute;
+    top:30%;
+    left:32%;
+    opacity:0;
+}
+
+.fl7:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl7:hover img{
+    opacity:0.4;
+}
+
+.fl8{
+    position: relative;
+}
+
+.fl8 h2{
+    position:absolute;
+    top:30%;
+    left:34%;
+    opacity:0;
+}
+
+.fl8:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.fl8:hover img{
+    opacity:0.4;
+}
+
+.animal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.an1{
+    position: relative;
+}
+
+.an1 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.an1:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an1:hover img{
+    opacity:0.4;
+}
+
+.an2{
+    position: relative;
+}
+
+.an2 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.an2:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an2:hover img{
+    opacity:0.4;
+}
+
+.an3{
+    position: relative;
+}
+
+.an3 h2{
+    position:absolute;
+    top:30%;
+    left:35%;
+    opacity:0;
+}
+
+.an3:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an3:hover img{
+    opacity:0.4;
+}
+
+.an4{
+    position: relative;
+}
+
+.an4 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.an4:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an4:hover img{
+    opacity:0.4;
+}
+
+.an5{
+    position: relative;
+}
+
+.an5 h2{
+    position:absolute;
+    top:30%;
+    left:38%;
+    opacity:0;
+}
+
+.an5:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an5:hover img{
+    opacity:0.4;
+}
+
+.an6{
+    position: relative;
+}
+
+.an6 h2{
+    position:absolute;
+    top:30%;
+    left:37%;
+    opacity:0;
+}
+
+.an6:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an6:hover img{
+    opacity:0.4;
+}
+
+.an7{
+    position: relative;
+}
+
+.an7 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.an7:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an7:hover img{
+    opacity:0.4;
+}
+
+.an8{
+    position: relative;
+}
+
+.an8 h2{
+    position:absolute;
+    top:30%;
+    left:37%;
+    opacity:0;
+}
+
+.an8:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.an8:hover img{
+    opacity:0.4;
+}
+
+.food{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.fo1:hover {
+    opacity:0.5;
+}
+
+.fo2:hover {
+    opacity:0.5;
+}
+
+.fo3:hover {
+    opacity:0.5;
+}
+
+.fo4:hover {
+    opacity:0.5;
+}
+
+.fo5:hover {
+    opacity:0.5;
+}
+
+.fo6:hover {
+    opacity:0.5;
+}
+
+.fo7:hover {
+    opacity:0.5;
+}
+
+.fo8:hover {
+    opacity:0.5;
+}
+
+.weapon{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.we1{
+    position: relative;
+}
+
+.we1 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.we1:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we1:hover img{
+    opacity:0.4;
+}
+
+.we2{
+    position: relative;
+}
+
+.we2 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.we2:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we2:hover img{
+    opacity:0.4;
+}
+
+.we3{
+    position: relative;
+}
+
+.we3 h2{
+    position:absolute;
+    top:30%;
+    left:35%;
+    opacity:0;
+}
+
+.we3:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we3:hover img{
+    opacity:0.4;
+}
+
+.we4{
+    position: relative;
+}
+
+.we4 h2{
+    position:absolute;
+    top:30%;
+    left:40%;
+    opacity:0;
+}
+
+.we4:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we4:hover img{
+    opacity:0.4;
+}
+
+.we5{
+    position: relative;
+}
+
+.we5 h2{
+    position:absolute;
+    top:30%;
+    left:38%;
+    opacity:0;
+}
+
+.we5:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we5:hover img{
+    opacity:0.4;
+}
+
+.we6{
+    position: relative;
+}
+
+.we6 h2{
+    position:absolute;
+    top:30%;
+    left:33%;
+    opacity:0;
+}
+
+.we6:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we6:hover img{
+    opacity:0.4;
+}
+
+.we7{
+    position: relative;
+}
+
+.we7 h2{
+    position:absolute;
+    top:30%;
+    left:35%;
+    opacity:0;
+}
+
+.we7:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we7:hover img{
+    opacity:0.4;
+}
+
+.we8{
+    position: relative;
+}
+
+.we8 h2{
+    position:absolute;
+    top:30%;
+    left:36%;
+    opacity:0;
+}
+
+.we8:hover h2{
+    color: bisque;
+    opacity:1;
+}
+
+.we8:hover img{
+    opacity:0.4;
+}
